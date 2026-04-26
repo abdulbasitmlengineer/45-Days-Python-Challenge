@@ -1,0 +1,6 @@
+print("Hello World!")
+print("My Name Is Abdul Basit")
+print("Abdul Basit Is the ambitious Boy who want to learn Python")
+print("Today is the day 1 of learning python in the mobile phone")
+print ("Learning something new is the favorite hobby of Abdul basit")
+print("If you want to knw more about Abdul Basit Stay Curious And be with us")
