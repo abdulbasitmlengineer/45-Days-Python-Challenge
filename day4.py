@@ -1,0 +1,11 @@
+Name = input("Your Name===")
+Val1 = input("Value 1st...=")
+Val2 = input("Value 2nd...=")
+num1 = int(Val1)
+num2 = int(Val2)
+Total = num1 + num2
+print("Asslam Walikum Friend....")
+print(f"My name is {Name}")
+print(f"Your First Value Is ....{num1}")
+print(f" Your 2nd Value Is..{num2}")
+print(f"Your Final Answere is {Total}")
